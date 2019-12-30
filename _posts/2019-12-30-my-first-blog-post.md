@@ -1,1 +1,6 @@
-because I can always edit it later so I just copy the sentence
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
+
+
