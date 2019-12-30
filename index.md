@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Joann‘s blog
 
-I'm glad you are here. I plan to talk about ...
+It's almost the end of 2019 and I insisting on learning
